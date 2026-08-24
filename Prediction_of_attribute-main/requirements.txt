@@ -1,7 +1,0 @@
-numpy
-pandas
-tensorflow
-scikit-learn
-opencv-python
-pyarrow
-Catboost
