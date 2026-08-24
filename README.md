@@ -135,10 +135,3 @@ Applied stacking and weighted voting to enhance predictions:
 3. Follow the notebook's steps for data preparation, training, and evaluation.
 
 ---
-
-## 📩 **Contact**
-- Email: `yourname@example.com`
-- GitHub: [YourUsername](https://github.com/PRAK-HARS)
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/prakhar-singh-a6a60321b/)
-
----
